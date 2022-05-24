@@ -9,7 +9,7 @@
 
 💬 Ask me about Flutter or any of my previous projects.
 
-📫 How to reach me: 
+📫 How to reach me:
      [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
      [E-Mail](mailto:mr.rajput7547@gmail.com)
      
