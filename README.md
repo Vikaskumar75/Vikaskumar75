@@ -1,12 +1,18 @@
 # 💫About Me :
 🔭 I’m currently working on an AI-Powered super app.
+
 🌱 I’m currently learning more about NodeJs.
+
 👯 I’m looking to collaborate on Youtube or flutter packages.
+
 🤔 I’m wondering to learn about blockchain/web3.
+
 💬 Ask me about Flutter or any of my previous projects.
+
 📫 How to reach me: 
-     [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/),
+     [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
      [E-Mail](mailto:mr.rajput7547@gmail.com)
+     
 ⚡ Fun fact: I love anime, Volleyball, Chess, and Sudoku.
 
 ## 🌐Socials
