@@ -1,9 +1,9 @@
 # 💫About Me :
-🔭 I’m currently working on an AI-Powered super app.
+🔭 I’m currently working on an AI-powered super app.
 
 🌱 I’m currently learning more about NodeJs.
 
-👯 I’m looking to collaborate on Youtube or flutter packages.
+👯 I’m looking to collaborate on Youtube or Flutter packages.
 
 🤔 I’m wondering to learn about blockchain/web3.
 
