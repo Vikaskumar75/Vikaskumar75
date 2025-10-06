@@ -62,7 +62,6 @@ I’ve been building apps, APIs, and open-source tools for over **4 years**.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vikaskumar75&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikaskumar75&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
