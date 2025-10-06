@@ -1,118 +1,254 @@
-<!-- HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Vikas+Kumar!;Flutter+Engineer+💙;Anime+Fan+🎌;Problem+Solver+♟️" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vikaskumar75/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:vikaskumar75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://pub.dev/packages?author=vikaskumar75"><img src="https://img.shields.io/badge/-Pub.Dev-0175C2?style=for-the-badge&logo=dart" /></a>
-  <a href="https://github.com/Vikaskumar75"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
+# 👋 Hey there, I'm Vikas Kumar
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+Engineer+%7C+Mobile+Architect;Open+Source+Contributor;Backend+Developer+%7C+NestJS+%2B+Node.js;Anime+Enthusiast+%7C+Problem+Solver;Building+Beautiful+Experiences" alt="Typing SVG" />
 
-## 🌟 About Me
+<br />
 
-Hi! I’m **Vikas Kumar**, a passionate **Software Engineer** from 🇮🇳 India.  
-I specialize in **Flutter & Dart**, with backend experience in **NestJS, Node.js, and Express**.  
-I’ve been building apps, APIs, and open-source tools for over **4 years**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikaskumar75/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikaskumar75@gmail.com)
+[![Pub.dev](https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages?author=vikaskumar75)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vikaskumar75.hashnode.dev/)
 
-💼 Currently creating awesome experiences at **[GeekyAnts India Pvt. Ltd.](https://www.geekyants.com/)**  
-🎥 Featured in **Episode 1 of [Flutter Factor](https://www.youtube.com/watch?v=ScWqjWW9c6E&t=17s)**  
-📰 Author of **[SS7: The Invisible Threat Behind Your Phone Calls](https://vikaskumar75.hashnode.dev/ss7-the-invisible-threat-behind-your-phone-calls)**  
+<img src="https://komarev.com/ghpvc/?username=Vikaskumar75&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-✨ Always exploring new tech, animations, and server-driven UI.  
-🎮 Anime lover | ♟️ Chess & Rubik’s cube enthusiast | 🏸 Badminton & casual sports fan  
+</div>
 
 ---
 
-## 🧰 Tech Toolbox
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nestjs,nodejs,express,typescript,js,html,css,git,github,vscode,postman" />
-</p>
+```dart
+class Developer {
+  final String name = "Vikas Kumar";
+  final String role = "Software Engineer";
+  final String company = "GeekyAnts India Pvt. Ltd.";
+  final int experience = 4; // years
+  final String location = "India 🇮🇳";
+  
+  List<String> languages = ["Dart", "TypeScript", "JavaScript"];
+  List<String> frameworks = ["Flutter", "NestJS", "Node.js", "Express"];
+  
+  Map<String, String> currentFocus = {
+    "learning": "Server-driven UI & Advanced Animations",
+    "building": "Scalable Mobile & Backend Solutions",
+    "contributing": "Open Source Flutter Packages"
+  };
+  
+  String getQuote() => "Code is like a good anime arc — starts simple, gets intense, ends beautifully 🎬";
+}
+```
 
-<p align="center">I build apps that are smooth, performant, and beautiful — from pixels to APIs.</p>
-
----
-
-## 🪄 Featured Flutter Packages
-
-| 🚀 Project | ✨ Description | 🌐 Link |
-|------------|----------------|---------|
-| 🌀 **Animate Gradient** | Smooth, eye-catching gradient animations for Flutter | [pub.dev/packages/animate_gradient](https://pub.dev/packages/animate_gradient) |
-| 📅 **Multi Date Picker** | Customizable multi-date picker for Flutter apps | [pub.dev/packages/multi_date_picker](https://pub.dev/packages/multi_date_picker) |
-
----
-
-## 🎬 Flutter Factor Feature
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ScWqjWW9c6E&t=17s">
-    <img src="https://img.youtube.com/vi/ScWqjWW9c6E/hqdefault.jpg" width="70%" alt="Flutter Factor Episode 1" style="border-radius:10px;" />
-  </a>
-</p>
-
-> 🎤 “Episode 1 of Flutter Factor — sharing thoughts on Flutter, open source, and dev life!”
+🎥 **Featured Creator**: Episode 1 of [Flutter Factor](https://www.youtube.com/watch?v=ScWqjWW9c6E&t=17s)  
+✍️ **Technical Writer**: [SS7: The Invisible Threat Behind Your Phone Calls](https://vikaskumar75.hashnode.dev/ss7-the-invisible-threat-behind-your-phone-calls)  
+💙 **Philosophy**: Building apps that are smooth, performant, and beautiful — from pixels to APIs
 
 ---
 
-## 💻 GitHub Highlights
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vikaskumar75&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikaskumar75&theme=react-dark&hide_border=true" />
-</p>
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+### Backend & APIs
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🧑‍💼 Professional Contributions (Transitioning)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Most of my work happens at **GeekyAnts India Pvt. Ltd.**  
-I’m in the process of **linking my work email to my main GitHub**, so soon all commits will show under **@Vikaskumar75**.
-
-> 💡 Current snapshot of my professional contributions will appear once the email is active.
-
----
-
-## 🎌 Beyond Code
-
-When I’m not coding:
-
-- 🎥 Watching **anime** — Attack on Titan, Jujutsu Kaisen, etc.  
-- 🏸 Playing **badminton**  
-- ♟️ Solving **chess puzzles** & **Rubik’s cubes**  
-- 🏓 Playing casual **table tennis, cricket, volleyball**  
-- 🧩 Solving **Sudokus** for fun  
-
-> I love hobbies that challenge the mind and the body — same philosophy I bring to coding.  
+</div>
 
 ---
 
-## 💡 Currently Exploring
+## 📦 Featured Open Source Packages
 
-- Server-driven UI in Flutter  
-- Advanced Flutter animations  
-- Backend architecture & NestJS  
-- Developer tooling & productivity hacks  
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌀 Animate Gradient
+[![pub package](https://img.shields.io/pub/v/animate_gradient.svg?label=animate_gradient&color=blue)](https://pub.dev/packages/animate_gradient)
+
+Smooth, eye-catching gradient animations for Flutter. Perfect for creating dynamic, beautiful UI elements.
+
+**[📦 View Package →](https://pub.dev/packages/animate_gradient)**
+
+</td>
+<td width="50%">
+
+### 📅 Multi Date Picker
+[![pub package](https://img.shields.io/pub/v/multi_date_picker.svg?label=multi_date_picker&color=blue)](https://pub.dev/packages/multi_date_picker)
+
+Highly customizable multi-date picker widget for Flutter apps. Simple API, powerful features.
+
+**[📦 View Package →](https://pub.dev/packages/multi_date_picker)**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 💬 Thought of the Day
+## 📊 GitHub Analytics
 
-> “Code is like a good anime arc — it starts simple, gets intense, and ends beautifully.” 🎬
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikaskumar75&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Vikaskumar75&limit=4&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Contributed Repo" />
+</div>
+
+<br />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikaskumar75&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-## 🎮 Fun Meter
+## 🏆 GitHub Trophies
 
-```text
-💻 Coding          ████████████████████▒▒   90%
-🎌 Anime           ██████████████████████   100%
-🏸 Badminton       ████████████████▒▒▒▒▒▒   80%
-♟️ Chess + Puzzles ████████████████▒▒▒▒▒▒   75%
-☕ Chai             ██████████████████████   100%
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vikaskumar75&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎬 Media & Recognition
+
+<div align="center">
+
+### 🎤 Flutter Factor - Episode 1
+
+<a href="https://www.youtube.com/watch?v=ScWqjWW9c6E&t=17s">
+  <img src="https://img.youtube.com/vi/ScWqjWW9c6E/maxresdefault.jpg" width="600px" alt="Flutter Factor Episode 1" style="border-radius:15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</a>
+
+*Featured in Episode 1 discussing Flutter development, open source contributions, and the future of cross-platform development.*
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+```typescript
+const currentJourney = {
+  learning: [
+    "Server-driven UI architecture in Flutter",
+    "Advanced Flutter animations & custom painters",
+    "Scalable backend patterns with NestJS",
+    "Developer tooling & productivity optimization"
+  ],
+  building: [
+    "Production-ready Flutter applications",
+    "RESTful APIs & microservices",
+    "Open source packages for the community"
+  ],
+  goals: [
+    "Contribute to Flutter framework",
+    "Build 10k+ downloads on Pub.dev packages",
+    "Share knowledge through technical writing"
+  ]
+};
+```
+
+---
+
+## 🎌 Beyond The Code
+
+When I'm not crafting apps or debugging APIs, you'll find me:
+
+<div align="center">
+
+| Activity | Level | Description |
+|----------|-------|-------------|
+| 🎥 Anime | ██████████████████████ 100% | Attack on Titan, Jujutsu Kaisen, Demon Slayer |
+| ♟️ Chess | ███████████████░░░░░░░ 75% | Solving tactical problems & opening theory |
+| 🧩 Rubik's Cube | ███████████████░░░░░░░ 75% | Speed solving & pattern recognition |
+| 🏸 Badminton | ████████████████░░░░░░ 80% | Weekly matches & improving technique |
+| 🏓 Sports | ███████████████░░░░░░░ 70% | Table tennis, cricket, volleyball |
+| 🧩 Sudoku | ███████████████░░░░░░░ 75% | Daily brain training |
+| ☕ Chai | ██████████████████████ 100% | Endless cups while coding |
+
+</div>
+
+> *I believe hobbies that challenge the mind and body make better developers. The problem-solving skills translate directly to code.*
+
+---
+
+## 💼 Professional Work
+
+<div align="center">
+
+**Most of my professional contributions happen at** [**GeekyAnts India Pvt. Ltd.**](https://www.geekyants.com/)
+
+*Currently transitioning work email to main GitHub account — all contributions will soon appear under [@Vikaskumar75](https://github.com/Vikaskumar75)*
+
+Building enterprise Flutter applications, scalable backends, and contributing to product innovation.
+
+</div>
+
+---
+
+## 💡 Daily Wisdom
+
+<div align="center">
+
+### "Code is like a good anime arc — it starts simple, gets intense, and ends beautifully." 🎬
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+**💬 Open for:**
+- 🚀 Open source collaborations
+- 💼 Freelance Flutter projects
+- 🎓 Mentoring & knowledge sharing
+- 🤝 Networking with fellow developers
+
+**📫 Reach me at:** [mr.rajput7547@gmail.com](mailto:mr.rajput7547@gmail.com)
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikaskumar75/)
+
+<br />
+
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting! Have a great day! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
