@@ -198,9 +198,6 @@ When I'm not crafting apps or debugging APIs, you'll find me:
 <div align="center">
 
 **Most of my professional contributions happen at** [**GeekyAnts India Pvt. Ltd.**](https://www.geekyants.com/)
-
-*Currently transitioning work email to main GitHub account — all contributions will soon appear under [@Vikaskumar75](https://github.com/Vikaskumar75)*
-
 Building enterprise Flutter applications, scalable backends, and contributing to product innovation.
 
 </div>
