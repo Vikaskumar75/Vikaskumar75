@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" width="100%" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Vikas — Senior Software Engineer — Flutter and Data">
+  <defs>
+    <radialGradient id="nebPurple" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7f77dd" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#7f77dd" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#7f77dd" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebOrange" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d85a30" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#d85a30" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#d85a30" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#58a6ff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="centerStar" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="40%" stop-color="#ffffff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="vignette" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a1a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0a1a" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="leftFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0a1a" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0a0a1a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1280" height="380" fill="#0a0a1a"/>
+
+  <!-- nebulae -->
+  <circle cx="1080" cy="40" r="280" fill="url(#nebPurple)"/>
+  <circle cx="980" cy="360" r="220" fill="url(#nebOrange)"/>
+  <circle cx="760" cy="60" r="180" fill="url(#nebBlue)"/>
+  <circle cx="200" cy="320" r="200" fill="url(#nebPurple)" opacity="0.5"/>
+
+  <!-- starfield -->
+  <g fill="#ffffff">
+    <circle cx="60"   cy="60"  r="1.5" opacity="0.6"/>
+    <circle cx="140"  cy="100" r="1"   opacity="0.4"/>
+    <circle cx="210"  cy="50"  r="2"   opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="310"  cy="110" r="1"   opacity="0.5"/>
+    <circle cx="400"  cy="40"  r="1.5" opacity="0.6"/>
+    <circle cx="490"  cy="90"  r="2.5" opacity="0.85"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="560"  cy="130" r="1"   opacity="0.4"/>
+    <circle cx="630"  cy="60"  r="1.5" opacity="0.55"/>
+    <circle cx="710"  cy="110" r="1"   opacity="0.35"/>
+    <circle cx="800"  cy="50"  r="2"   opacity="0.8"><animate attributeName="opacity" values="0.25;0.95;0.25" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="850"  cy="160" r="1"   opacity="0.4"/>
+    <circle cx="740"  cy="200" r="1"   opacity="0.3"/>
+    <circle cx="660"  cy="240" r="1.5" opacity="0.5"/>
+    <circle cx="580"  cy="290" r="1"   opacity="0.4"/>
+    <circle cx="120"  cy="180" r="1"   opacity="0.35"/>
+    <circle cx="180"  cy="240" r="1.5" opacity="0.45"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="60"   cy="280" r="1"   opacity="0.3"/>
+    <circle cx="240"  cy="320" r="1"   opacity="0.3"/>
+    <circle cx="900"  cy="320" r="1"   opacity="0.3"/>
+    <circle cx="950"  cy="240" r="1.5" opacity="0.45"/>
+    <circle cx="1180" cy="60"  r="1"   opacity="0.4"/>
+    <circle cx="1220" cy="140" r="1.5" opacity="0.55"><animate attributeName="opacity" values="0.25;0.85;0.25" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1200" cy="340" r="1"   opacity="0.3"/>
+    <circle cx="1110" cy="240" r="1"   opacity="0.35"/>
+    <circle cx="450"  cy="180" r="1"   opacity="0.3"/>
+    <circle cx="380"  cy="220" r="1"   opacity="0.3"/>
+    <circle cx="980"  cy="80"  r="1.5" opacity="0.5"/>
+    <circle cx="320"  cy="280" r="1"   opacity="0.3"/>
+    <circle cx="1050" cy="150" r="1"   opacity="0.35"/>
+  </g>
+
+  <!-- orbit system, anchored on the right -->
+  <g transform="translate(1040 190)">
+    <!-- rings -->
+    <circle r="60"  fill="none" stroke="#8b94a8" stroke-opacity="0.22" stroke-width="0.6"/>
+    <circle r="95"  fill="none" stroke="#8b94a8" stroke-opacity="0.16" stroke-width="0.6"/>
+    <circle r="130" fill="none" stroke="#8b94a8" stroke-opacity="0.10" stroke-width="0.6"/>
+
+    <!-- center "host" -->
+    <circle r="14" fill="url(#centerStar)"/>
+    <circle r="4"  fill="#e6edf3"/>
+
+    <!-- orbiting bodies — each spins around (0,0) of this translated group -->
+    <g>
+      <circle cx="60" cy="0" r="4" fill="#7f77dd">
+        <animate attributeName="r" values="3.6;4.4;3.6" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <animateTransform attributeName="transform" type="rotate" from="0"   to="360" dur="22s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="95" cy="0" r="3" fill="#f78166">
+        <animate attributeName="r" values="2.7;3.3;2.7" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+      <animateTransform attributeName="transform" type="rotate" from="140" to="500" dur="38s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="130" cy="0" r="3.5" fill="#3fb950">
+        <animate attributeName="r" values="3.2;3.8;3.2" dur="4.4s" repeatCount="indefinite"/>
+      </circle>
+      <animateTransform attributeName="transform" type="rotate" from="260" to="620" dur="60s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- left-side fade so text reads cleanly -->
+  <rect x="0" y="0" width="640" height="380" fill="url(#leftFade)"/>
+
+  <!-- bottom vignette -->
+  <rect width="1280" height="380" fill="url(#vignette)"/>
+
+  <!-- hero text -->
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="60" y="226" fill="#8b949e" font-size="14" letter-spacing="6">SENIOR  SOFTWARE  ENGINEER  III</text>
+    <text x="58" y="298" fill="#ffffff" font-size="92" font-weight="700" letter-spacing="-3">Vikas</text>
+    <text x="62" y="336" fill="#afa9ec" font-size="20" letter-spacing="0.6">Flutter  ·  Mobile  ·  Open Source</text>
+    <text x="62" y="362" fill="#6e7681" font-size="13" letter-spacing="0.6">GeekyAnts · Bangalore · IN</text>
+  </g>
+</svg>

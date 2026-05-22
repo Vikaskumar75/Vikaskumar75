@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Active missions: Flutter Factor podcast, SS7 article, open source on pub.dev">
+  <defs>
+    <linearGradient id="spotlightBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7f77dd" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#d85a30" stop-opacity="0.07"/>
+    </linearGradient>
+    <style>
+      .card        { fill: #161b22; stroke: #21262d; stroke-width: 0.8; }
+      .card-spot   { fill: url(#spotlightBg); stroke: #7f77dd; stroke-width: 1.2; stroke-opacity: 0.4; }
+      .title       { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 600; fill: #e6edf3; letter-spacing: -0.2px; }
+      .desc        { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; fill: #8b949e; }
+      .tag-text    { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; fill: #afb6c0; letter-spacing: 0.1px; }
+      .tag-pill    { fill: #21262d; }
+      .icon-bg-p   { fill: #7f77dd; fill-opacity: 0.18; }
+      .icon-bg-o   { fill: #f78166; fill-opacity: 0.18; }
+      .icon-bg-g   { fill: #3fb950; fill-opacity: 0.18; }
+    </style>
+  </defs>
+
+  <!-- ────── CARD 1 · SPOTLIGHT · Flutter Factor — Episode 01 ────── -->
+  <rect x="10" y="10" width="1180" height="160" rx="14" class="card-spot">
+    <animate attributeName="stroke-opacity" values="0.3;0.65;0.3" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <!-- icon container -->
+  <rect x="32" y="35" width="56" height="56" rx="14" class="icon-bg-p"/>
+  <g transform="translate(60 63)">
+    <path d="M-7 -10 L10 0 L-7 10 Z" fill="#afa9ec"/>
+  </g>
+  <!-- text -->
+  <text x="118" y="58" class="title">Flutter Factor — Episode 01</text>
+  <text x="118" y="92" class="desc">Podcast appearance — a conversation on cross-platform development,</text>
+  <text x="118" y="114" class="desc">open source contribution, and where Flutter is heading next.</text>
+  <!-- tag pills -->
+  <g>
+    <rect x="118" y="130" width="78" height="26" rx="13" class="tag-pill"/>
+    <text x="157" y="148" text-anchor="middle" class="tag-text">YouTube</text>
+    <rect x="204" y="130" width="76" height="26" rx="13" class="tag-pill"/>
+    <text x="242" y="148" text-anchor="middle" class="tag-text">Podcast</text>
+    <rect x="288" y="130" width="70" height="26" rx="13" class="tag-pill"/>
+    <text x="323" y="148" text-anchor="middle" class="tag-text">Flutter</text>
+  </g>
+
+  <!-- ────── CARD 2 · SS7 article ────── -->
+  <rect x="10" y="185" width="1180" height="160" rx="14" class="card"/>
+  <rect x="32" y="210" width="56" height="56" rx="14" class="icon-bg-o"/>
+  <g transform="translate(60 238)">
+    <path d="M-11 -13 L7 -13 L13 -7 L13 13 L-11 13 Z" fill="none" stroke="#f0997b" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M-6 -3 L8 -3 M-6 2 L8 2 M-6 7 L4 7" stroke="#f0997b" stroke-width="1.2" opacity="0.7" stroke-linecap="round"/>
+  </g>
+  <text x="118" y="233" class="title">SS7 — The Invisible Threat Behind Your Phone Calls</text>
+  <text x="118" y="267" class="desc">A tour of the 1975 telecom protocol that still routes your texts and calls —</text>
+  <text x="118" y="289" class="desc">and the vulnerability it quietly leaves sitting in your pocket.</text>
+  <g>
+    <rect x="118" y="305" width="86" height="26" rx="13" class="tag-pill"/>
+    <text x="161" y="323" text-anchor="middle" class="tag-text">Hashnode</text>
+    <rect x="212" y="305" width="76" height="26" rx="13" class="tag-pill"/>
+    <text x="250" y="323" text-anchor="middle" class="tag-text">Telecom</text>
+    <rect x="296" y="305" width="80" height="26" rx="13" class="tag-pill"/>
+    <text x="336" y="323" text-anchor="middle" class="tag-text">Security</text>
+  </g>
+
+  <!-- ────── CARD 3 · Open source on pub.dev ────── -->
+  <rect x="10" y="360" width="1180" height="160" rx="14" class="card"/>
+  <rect x="32" y="385" width="56" height="56" rx="14" class="icon-bg-g"/>
+  <g transform="translate(60 413)">
+    <path d="M-12 -8 L0 -14 L12 -8 L12 8 L0 14 L-12 8 Z" fill="none" stroke="#3fb950" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M-12 -8 L0 -2 L12 -8 M0 -2 L0 14" stroke="#3fb950" stroke-width="1.2" opacity="0.6"/>
+  </g>
+  <text x="118" y="408" class="title">Open Source · pub.dev</text>
+  <text x="118" y="442" class="desc">animate_gradient — smooth gradient animations for Flutter.</text>
+  <text x="118" y="464" class="desc">multi_date_picker — highly-customisable multi-date picker widget.</text>
+  <g>
+    <rect x="118" y="480" width="70" height="26" rx="13" class="tag-pill"/>
+    <text x="153" y="498" text-anchor="middle" class="tag-text">Flutter</text>
+    <rect x="196" y="480" width="56" height="26" rx="13" class="tag-pill"/>
+    <text x="224" y="498" text-anchor="middle" class="tag-text">Dart</text>
+    <rect x="260" y="480" width="74" height="26" rx="13" class="tag-pill"/>
+    <text x="297" y="498" text-anchor="middle" class="tag-text">pub.dev</text>
+  </g>
+</svg>
